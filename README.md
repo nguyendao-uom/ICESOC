@@ -5,7 +5,8 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+   <p align="center">
+   <img src="./docs/source/ICESOC.png" width="50%" height="50%">
+   </p>
 
 
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
